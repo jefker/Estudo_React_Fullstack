@@ -3,12 +3,14 @@
     <img src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?&style=for-the-badge&color=06ACC9" />
     <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=D9760D" />
     <img src="https://img.shields.io/badge/Springboot%20-%23F7DF1E.svg?&style=for-the-badge&color=6EBD1F" />
+    <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1642A8" />
+    
 </p>
 
 
 <h2> Objetivo do projeto</h2>
 <ol>
-    <p>Estudos com o framework React, realizando um CRUD básico em Java/Spring.</p>
+    <p>Estudos com o framework React, realizando um CRUD básico em Java/Spring e PostgreSQL no banco de dados.</p>
 </ol>
 <br>
 
