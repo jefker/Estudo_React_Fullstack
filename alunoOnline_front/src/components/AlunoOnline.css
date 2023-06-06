@@ -1,0 +1,22 @@
+table {
+    border: 1px;
+    border-color: transparent;
+}
+
+table tbody {
+    border-color: #6b6b6b;
+    border-radius: 30px;
+}
+
+th {
+    text-transform: uppercase;
+    width: 200px;
+}
+
+td {
+    padding-left: 10px;
+}
+
+tr input {
+    margin-left: 10px;
+}

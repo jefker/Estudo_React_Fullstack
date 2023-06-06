@@ -1,0 +1,14 @@
+.botaoExcluir button {
+    width: 109.81px;
+    margin-left: 22px;
+}
+
+.botaoExcluir button:hover {
+    background-color: rgb(170, 54, 54);
+    border-color: #ff6464;
+}
+
+button:focus,
+button:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+}

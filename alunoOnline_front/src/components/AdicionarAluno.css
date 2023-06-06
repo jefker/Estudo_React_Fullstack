@@ -1,0 +1,40 @@
+.adicionarAluno {
+    background-color: hwb(0 25% 75% / 0.6);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+h3 {
+    margin: 0;
+}
+
+form {
+    display: flex;
+    align-items: center;
+}
+
+form input {
+    margin-left: 8px;
+}
+
+label {
+    padding-right: 5px;
+    display: flex;
+    align-content: center;
+}
+
+label input {
+    margin-left: 10px;
+    max-width: 140px;
+    height: 22px;
+}
+
+.adicionarAluno button:hover {
+    background-color: rgb(64, 170, 54);
+    border-color: #71ff64;
+}
+
+button:focus,
+button:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+}
