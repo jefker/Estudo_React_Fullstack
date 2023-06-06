@@ -17,5 +17,5 @@
 ![Screenshot_1](https://github.com/jefker/aluno_online/assets/64321545/d0df87d1-15db-4c3c-9029-d051a2d47305)
 
 <ol>
-    <p>Interface simples, sem muito refinamento. Mais informações no meu linkedin: https://www.linkedin.com/in/jefker/ </p>
+    <p>Interface simples, sem muito refinamento. Mais informações na publicação em linkedin: https://bit.ly/43KrjTm</p>
 </ol>
